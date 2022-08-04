@@ -6,10 +6,15 @@
     justify-content: center;
     align-items: center;
     background-image: url(../picture/oleg-leshiy-shekhovtsov-valkia-ill.jpg);
+    background-size: cover;
 }
 
 body{
     background-color: #741212;
     margin: 0;
     padding: 0;
+}
+
+.container>*{
+    background-color: #741212;
 }
